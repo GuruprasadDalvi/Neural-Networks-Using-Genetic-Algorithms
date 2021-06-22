@@ -1,7 +1,6 @@
 import random
 import numpy as np
 import json
-from scipy.special import expit
 
 
 def sigmoid(x):
